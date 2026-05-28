@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Pridge",
+    "slug": "pridge",
+    "scheme": "pridge",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F7F4EC"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pridge.app"
+    },
+    "android": {
+      "package": "com.pridge.app"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}
